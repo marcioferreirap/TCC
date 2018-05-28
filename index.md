@@ -1,12 +1,12 @@
-#Procedimentos iniciais
+# Procedimentos iniciais
 
 Os procedimentos abaixo tem por objetivo instruir aos usuários como preparar o ambiente para instalação das ferramentas.
 
-##Instalação do Java develpment kit 8
+## Instalação do Java develpment kit 8
 
 Para que haja uma instalação correta de todos os aplicativos é necessário fazer o download do JDK 8 (Java development kit) em sua última versão que está disponível [clicando aqui](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). Como é possível verificar na figura, a seguir.
 
-![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/instalacao-java/fig01.png)
+![Image](https://github.com/marcioferreirap/TCC/blob/master/figuras/instalacao-java/fig01.png)
 
 Após o download realizado basta abrir o arquivo e seguirá a instalação. 
 
