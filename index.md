@@ -109,20 +109,20 @@ Nesta pesquisa foram realizadas provas de conceito com a suíte na intenção de
 O Pentaho Suite possui a funcionalidade de internacionalização, dessa forma podemos traduzir para a língua desejada. Com isso, como esse projeto atenderia um público específico foi necessário traduzir a ferramenta para que haja um maior entendimento dos envolvidos.
 Conforme imagem abaixo, é necessário ir no “Marketplace” para instalar o pacote necessário para tradução do sistema e suas aplicações.
 
-![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig01.png)
+![image](https://raw.githubusercontent.com/marcioferreirap/TCC/master/figuras/traducao-pentaho-suite/fig01.png)
 
 Ao acessar o “Marketplace” basta que realize a busca pelo idioma, que nesse caso foi o “Portuguese (Brazilian Variant)”, e clicar em “install” e logo será instalado.
 
-![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig02.png)
+![image](https://raw.githubusercontent.com/marcioferreirap/TCC/master/figuras/traducao-pentaho-suite/fig02.png)
 
 Após a instalação fica disponível no menu “Tools > Language Packs > Portuguese (Brazilian Variant) Language Pack Installer” conforme pode ser observado na figura abaixo.
 
-![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig03.png)
+![image](https://raw.githubusercontent.com/marcioferreirap/TCC/master/figuras/traducao-pentaho-suite/fig03.png)
 
 Com a instalação o usuário deve reiniciar o servidor, na tela de autenticação já é possível observar os itens traduzidos.
 
-![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig04.png)
+![image](https://raw.githubusercontent.com/marcioferreirap/TCC/master/figuras/traducao-pentaho-suite/fig04.png)
 
 Após inserção das credenciais é possível observar que o sistema todo está traduzido.
 
-![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig05.png)
+![image](https://raw.githubusercontent.com/marcioferreirap/TCC/master/figuras/traducao-pentaho-suite/fig05.png)
