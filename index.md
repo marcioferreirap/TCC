@@ -1,6 +1,6 @@
 # Procedimentos iniciais
 
-Os procedimentos abaixo tem por objetivo instruir aos usuários como preparar o ambiente para instalação das ferramentas.
+Os procedimentos abaixo tem por objetivo instruir aos usuários como preparar o ambiente para instalação das ferramentas apresentadas nesta pesquisa.
 
 ## Instalação do Java develpment kit 8
 
@@ -12,7 +12,7 @@ Após o download realizado basta abrir o arquivo e seguirá a instalação.
 
 ![image](https://raw.githubusercontent.com/marcioferreirap/TCC/master/figuras/instalacao-java/fig02.png)
 
-Os passos para instalação, são assistentes simples, que indicam apenas para avançar até concluir, como é observado na figura a seguir.
+Os passos para instalação, são assistentes simples, que indicam apenas para avançar até concluir.
 
 ![image](https://raw.githubusercontent.com/marcioferreirap/TCC/master/figuras/instalacao-java/fig03.png)
 
@@ -104,41 +104,25 @@ Após ser aberta a ferramenta, fica disponível para criação dos cubos analít
 Nesta pesquisa foram realizadas provas de conceito com a suíte na intenção de prototipar a aplicação final. Com os testes finalizados foi verificado que a ferramenta iria atender aos requisitos necessários e os e deu-se continuidade aos passos seguintes.
 
 
+## Tradução do Pentaho Suite
 
-## Welcome to GitHub Pages
+O Pentaho Suite possui a funcionalidade de internacionalização, dessa forma podemos traduzir para a língua desejada. Com isso, como esse projeto atenderia um público específico foi necessário traduzir a ferramenta para que haja um maior entendimento dos envolvidos.
+Conforme imagem abaixo, é necessário ir no “Marketplace” para instalar o pacote necessário para tradução do sistema e suas aplicações.
 
-You can use the [editor on GitHub](https://github.com/marcioferreirap/TCC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig01.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ao acessar o “Marketplace” basta que realize a busca pelo idioma, que nesse caso foi o “Portuguese (Brazilian Variant)”, e clicar em “install” e logo será instalado.
 
-### Markdown
+![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig02.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Após a instalação fica disponível no menu “Tools > Language Packs > Portuguese (Brazilian Variant) Language Pack Installer” conforme pode ser observado na figura abaixo.
 
-```markdown
-Syntax highlighted code block
+![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig03.png)
 
-# Header 1
-## Header 2
-### Header 3
+Com a instalação o usuário deve reiniciar o servidor, na tela de autenticação já é possível observar os itens traduzidos.
 
-- Bulleted
-- List
+![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig04.png)
 
-1. Numbered
-2. List
+Após inserção das credenciais é possível observar que o sistema todo está traduzido.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcioferreirap/TCC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![image](https://github.com/marcioferreirap/TCC/blob/master/figuras/traducao-pentaho-suite/fig05.png)
